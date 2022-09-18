@@ -1,0 +1,22 @@
+* {
+font-family: 'Press Start 2P', cursive;
+}
+body {
+  background-color: rgb(206, 68, 68);
+  color: #fff;
+}
+
+.container-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container-center img {
+  width: 500px;
+}
+#no {
+  position: absolute;
+}
+.buttons {
+  margin-top: 20px;
+}

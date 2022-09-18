@@ -12,7 +12,10 @@ body {
   align-items: center;
 }
 .container-center img {
-  width: 500px;
+  max-width: 500px;
+}
+.container-center h1 {
+  text-align: center;
 }
 #no {
   position: absolute;
